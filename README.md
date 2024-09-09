@@ -6,8 +6,11 @@ Testing Peto’s paradox: a comparative reanalysis and meta-analysis of the effe
 Antoine M. Dujon1,2*, Beata Ujvari1, Frédéric Thomas2.
 
 1Deakin University, Geelong, School of Life and Environmental Sciences, Centre for Integrative Ecology, Waurn Ponds, Vic 3216, Australia. 
+
 2CREEC/(CREES), MIVEGEC, Unité Mixte de Recherches, IRD 224–CNRS 5290–Université de Montpellier, Montpellier, France
+
 *Corresponding author: antoine.dujon@yahoo.fr
+
 
 -------------------------------------------------------------------------------------------------------
 The rawdata folder contains the cancer prevalence raw datasets included in the manuscript

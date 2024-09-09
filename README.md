@@ -11,6 +11,9 @@ Antoine M. Dujon1,2*, Beata Ujvari1, Frédéric Thomas2.
 
 -------------------------------------------------------------------------------------------------------
 The rawdata folder contains the cancer prevalence raw datasets included in the manuscript
+
 The phylogenies folder contains the phylogenetic trees used in the Bayesian phylogenetic models
+
 The models folder contains the models fitted for each taxa (mammals, birds, reptiles) for each study plus the meta-analytic models
+
 The codes filder contains the R script used to fit the model for each taxa and study (code are fully annotated)

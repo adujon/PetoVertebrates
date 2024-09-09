@@ -1,6 +1,6 @@
 # PetoVertebrates
 
-This repository contains the code and raw datasets used to perform the analyses in the following manuscript: 
+This repository contains the codes and raw datasets used to perform the analyses in the following manuscript: 
 
 Testing Peto’s paradox: a comparative reanalysis and meta-analysis of the effect of body mass and life expectancy on cancer risk across vertebrates.
 Antoine M. Dujon1,2*, Beata Ujvari1, Frédéric Thomas2.

@@ -1,0 +1,38 @@
+common_name,species_name,order,family,genus,total_necropsies,any_neoplasia,any_malignant,percent_any_neoplasia,percent_any_malignant,total % any neoplasia,95_CI_neoplasia,min_CI_neoplasia ,max_CI_neoplasia,total % malignant,95% exact CI malignancy,min_CI_malignant,max_CI_malignant,adult_mass_kg,adult_mass_g,max_lifespan_yr,placenta_invasiveness,placenta_interdigitation,littersize
+Elephant,Loxodonta_africana,Proboscidea,Elephantidae,Loxodonta,17,8,4,0.470588235,0.235294118,47,(23-72),0.2298327,0.7218817,24,(7-50),0.0681,0.49899327,4800,4800000,65,endotheliochorial,labyrinthine,0.84
+Armadillo,Dasypus_novemcinctus,Cingulata,Dasypodidae,Dasypus,67,2,0,0.029850746,0,3,(0-10),0.003635731,0.103707508,0,(0-6),0,0.05356965,5.5,5500,22.3,hemochorial,trabecular,3.96
+Baboon,Papio_hamadryas,Primates,Cercopithecidae,Papio,12,0,0,0,0,0,(0-26),0,0.2646485,0,(0-26),0,0.2646485,18,18000,37.5,hemochorial,villous,1.01
+Black-backed jackal,Canis_mesomelas,Carnivora,Canidae,Canis,5,1,1,0.2,0.2,,,,,,,,,10.25,10250,16.7,endotheliochorial,,3.89
+Burro and Sardinian ass,Equus_asinus,Perissodactyla,Equidae,Equus,9,1,0,0.111111111,0,,,,,,,,,165,165000,47,epitheliochorial,villous,1
+Cape hunting dog,Lycaon_pictus,Carnivora,Canidae,Lycaon,6,3,1,0.5,0.166666667,,,,,,,,,26.5,26500,17,endotheliochorial,,8.1
+Capybara,Hydrochoerus_hydrochaeris,Rodentia,Caviidae,Hydrochoerus,13,0,0,0,0,0,(0-25),0,0.2470526,0,(0-25),0,0.2470526,55,55000,15.1,hemochorial,,3.49
+Cheetah,Acinonyx_jubatus,Carnivora,Felidae,Acinonyx,42,9,4,0.214285714,0.095238095,21,(10-37),0.1029596,0.3681156,10,(3-23),0.02656,0.22622487,53.5,53500,20.5,endotheliochorial,,3.28
+Collared peccary,Pecari_tajacu,Artiodactyla,Tayassuidae,Pecari,11,0,0,0,0,0,(0-28),0,0.2849142,0,(0-28),0,0.2849142,20.2,20200,31.5,epitheliochorial,,1.56
+Common wallaroo,Macropus_robustus,Diprotodontia,Macropodidae,Macropus,30,0,0,0,0,0,(0-12),0,0.1157033,0,(0-12),0,0.1157033,30,30000,22,marsupial,,1
+Cougar,Puma_concolor,Carnivora,Felidae,Puma,5,0,0,0,0,,,,,,,,,63,63000,23.8,endotheliochorial,,2.76
+Dama wallaby,Macropus_eugenii,Diprotodontia,Macropodidae,Macropus,11,0,0,0,0,0,(0-28),0,0.2849142,0,(0-28),0,0.2849142,6.5,6500,15.1,marsupial,,1.01
+Fennec fox,Vulpes_zerda,Carnivora,Canidae,Vulpes,4,0,0,0,0,,,,,,,,,1.25,1250,16.3,endotheliochorial,labyrinthine,2.36
+Guenon,Cercopithecus_mitis,Primates,Cercopithecidae,Cercopithecus,41,4,4,0.097560976,0.097560976,10,(3-23),0.02722747,0.23131455,10,(3-23),0.027227,0.23131455,9,9000,37.8,hemochorial,villous,1
+Harbor seal,Phoca_vitulina,Carnivora,Phocidae,Phoca,33,2,2,0.060606061,0.060606061,6,(1-20),0.007425838,0.202264313,6,(1-20),0.007,0.202264313,115,115000,47.6,endotheliochorial,,1
+Koala,Phascolarctos_cinereus,Diprotodontia,Phascolarctidae,Phascolarctos,74,21,16,0.283783784,0.216216216,28,(19-40),0.185,0.4005204,22,(13-33),0.128933,0.327237,9.3,9300,22.1,marsupial,,1.01
+Lion,Panthera_leo,Carnivora,Felidae,Panthera,18,1,1,0.055555556,0.055555556,6,(0-27),0.001405556,0.2729436,6,(0-27),0.001405556,0.2729436,175,175000,27,endotheliochorial,labyrinthine,2.75
+Llama,Lama_glama,Artiodactyla,Camelidae,Lama,6,0,0,0,0,,,,,,,,,140,140000,28.9,epitheliochorial,villous,1
+Marmoset,Callithrix_jacchus,Primates,Cebidae,Callithrix,40,5,5,0.125,0.125,13,(4-27),0.04185963,0.26803292,13,(4-27),0.04185963,0.26803292,0.26,260,16.5,hemochorial,trabecular,2.31
+Matschie's tree kangaroo,Dendrolagus_matschiei,Diprotodontia,Macropodidae,Dendrolagus,11,0,0,0,0,0,(0-28),0,0.2849142,0,(0-28),0,0.2849142,7.2,7200,26.9,marsupial,,1.01
+Moose,Alces_alces,Artiodactyla,Cervidae,Alces,13,0,0,0,0,0,(0-25),0,0.2470526,0,(0-25),0,0.2470526,386,386000,22,epitheliochorial,,1.25
+Parma wallaby,Macropus_parma,Diprotodontia,Macropodidae,Macropus,59,4,2,0.06779661,0.033898305,7,(2-16),0.019,0.16458517,3,(0-12),0.00413,0.117148464,4.25,4250,15.9,marsupial,,0.9
+Prairie dog,Cynomys_ludovicianus,Rodentia,Sciuridae,Cynomys,31,14,14,0.451612903,0.451612903,45,(27-64),0.273165,0.6396577,45,(27-64),0.273165,0.6396577,1.13,1130,11,hemochorial,,4.43
+Pronghorn,Antilocapra_americana,Artiodactyla,Antilocapridae,Antilocapra,20,1,1,0.05,0.05,5,(0-25),0.001265089,0.248732763,5,(0-25),0.001265089,0.248732763,46.1,46100,15.5,epitheliochorial,,1.93
+Pygmy marmoset,Callithrix_pygmaea,Primates,Cebidae,Callithrix,28,1,1,0.035714286,0.035714286,4,(0-18),0.000903799,0.183477598,4,(0-18),0.000903799,0.183477598,0.12,120,18.6,hemochorial,,1.93
+Raccoon,Procyon_lotor,Carnivora,Procyonidae,Procyon,12,0,0,0,0,0,(0-26),0,0.2646485,0,(0-26),0,0.2646485,6,6000,21,endotheliochorial,labyrinthine,3.06
+Red kangaroo,Macropus_rufus,Diprotodontia,Macropodidae,Macropus,9,0,0,0,0,,,,,,,,,55,55000,25,marsupial,,1
+Reindeer,Rangifer_tarandus,Artiodactyla,Cervidae,Rangifer,17,2,2,0.117647059,0.117647059,12,(1-36),0.01457932,0.36440916,12,(1-36),0.01457932,0.36440916,101.25,101250,21.7,epitheliochorial,villous,2
+Rock hyrax,Procavia_capensis,Hyracoidea,Procaviidae,Procavia,91,5,2,0.054945055,0.021978022,5,(2-12),0.019,0.12358108,2,(0-8),0.00267,0.077145393,3.6,3600,14.8,hemochorial,labyrinthine,2.5
+Squirrel monkey,Saimiri_sciureus,Primates,Cebidae,Saimiri,13,0,0,0,0,0,(0-25),0,0.2470526,0,(0-25),0,0.2470526,0.93,930,30.2,hemochorial,trabecular,1
+Striped grass mouse,Rhabdomys_pumilio,Rodentia,Muridae,Rhabdomys,13,0,0,0,0,0,(0-25),0,0.2470526,0,(0-25),0,0.2470526,0.05,50,4.5,hemochorial,,5.28
+Tarsier,Tarsius_syrichta,Primates,Tarsiidae,Tarsius,8,0,0,0,0,,,,,,,,,0.12,120,16,hemochorial,trabecular,1.01
+Tasmanian devil,Sarcophilus_harrisii,Dasyuromorphia,Dasyuridae,Sarcophilus,18,8,6,0.444444444,0.333333333,44,(22-69),0.2153015,0.6924283,33,(13-59),0.1334274,0.5900748,6.5,6500,13,marsupial,,2.88
+Tiger,Panthera_tigris,Carnivora,Felidae,Panthera,11,2,1,0.181818182,0.090909091,18,(2-52),0.0228,0.5177559,9,(2-41),0.002298972,0.412779917,119.7,119700,26.3,endotheliochorial,labyrinthine,2.6
+Tree shrew,Tupaia_glis,Scandentia,Tupaiidae,Tupaia,10,1,1,0.1,0.1,10,(0-45),0.002528579,0.445016117,10,(0-45),0.002528579,0.445016117,0.2,200,12.4,endotheliochorial,labyrinthine,2.22
+Virginia opossum,Didelphis_virginiana,Didelphimorphia,Didelphidae,Didelphis,28,17,15,0.607142857,0.535714286,61,(41-78),0.4057,0.7849572,54,(34-72),0.3386991,0.7248914,3,3000,6.6,marsupial,,8.62
+White-tailed gnu,Connochaetes_gnou,Artiodactyla,Bovidae,Connochaetes,16,0,0,0,0,0,(0-21),0,0.2059072,0,(0-21),0,0.2059072,164.5,164500,24.3,epitheliochorial,,1

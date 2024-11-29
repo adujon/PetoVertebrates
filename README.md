@@ -17,8 +17,6 @@ The rawdata folder contains the cancer prevalence raw, body mass and maximum lon
 
 The phylogenies folder contains the phylogenetic trees used in the Bayesian phylogenetic models
 
-The models folder contains the models fitted for each taxa (mammals, birds, reptiles) for each study plus the meta-analytic models
-
 The codes filder contains the R script used to fit the model for each taxa and study (code are fully annotated)
 
 -------------------------------------------------------------------------------------------------------

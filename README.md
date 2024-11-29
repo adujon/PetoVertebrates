@@ -5,9 +5,9 @@ This repository contains the codes and raw datasets used to perform the analyses
 Towards more rigorous testing of Peto’s paradox: a Bayesian re-analysis and discussion of the effect of body mass and longevity on cancer risk across vertebrates.
 Antoine M. Dujon1,2*, Peter A. Biro1, Beata Ujvari1, Frédéric Thomas2.
 
-1Deakin University, Geelong, School of Life and Environmental Sciences, Centre for Integrative Ecology, Waurn Ponds, Vic 3216, Australia. 
+1 Deakin University, Geelong, School of Life and Environmental Sciences, Centre for Integrative Ecology, Waurn Ponds, Vic 3216, Australia. 
 
-2CREEC/(CREES), MIVEGEC, Unité Mixte de Recherches, IRD 224–CNRS 5290–Université de Montpellier, Montpellier, France
+2 CREEC/(CREES), MIVEGEC, Unité Mixte de Recherches, IRD 224–CNRS 5290–Université de Montpellier, Montpellier, France
 
 *Corresponding author: antoine.dujon@yahoo.fr 
 

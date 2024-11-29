@@ -17,7 +17,9 @@ The rawdata folder contains the cancer prevalence raw, body mass and maximum lon
 
 The phylogenies folder contains the phylogenetic trees used in the Bayesian phylogenetic models
 
-The codes filder contains the R script used to fit the model for each taxa and study (code are fully annotated)
+The Regressions folder contains the R scripts used to fit the model for each taxa and study (code are fully annotated)
+
+The Shuffling Simulations folder contains the R scripts used to run the simulation investigating the effect of variation in the number of necropsies on effect size (here slope between the log10 BodyMass/Longevity and prevalence)
 
 -------------------------------------------------------------------------------------------------------
 Raw cancer prevalence data was sourced from the following publications
@@ -28,8 +30,7 @@ Boddy, A. M., L. M. Abegglen, A. P. Pessier, A. Aktipis, J. D. Schiffman, C. C. 
 
 Vincze, O., F. Colchero, J.-F. Lemaître, D. A. Conde, S. Pavard, M. Bieuville, A. O. Urrutia, B. Ujvari, A. M. Boddy, C. C. Maley, F. Thomas, and M. Giraudeau. 2022. Cancer risk across mammals. Nature 601:263–267 https://doi.org/10.1038/s41586-021-04224-5
 
-Compton, Z. T., W. Mellon, V. Harris, S. Rupp, D. Mallo, S. E. Kapsetaki, M. Wilmot, R. Kennington, K. Noble, C. Baciu, L. Ramirez, A. Peraza, B. Martins, S. Sudhakar, S. Aksoy, G. Furukawa, O. Vincze, M. Giraudeau, E. G. Duke, S. Spiro, E. Flach, H. Davidson, C. Li, A. Zehnder, T. A. Graham, B. Troan, T. M. Harrison, M. Tollis, J. D. Schiffman, A. Aktipis, L. M. Abegglen, C. C. Maley, and A. M. Boddy. 2024. Cancer Prevalence Across Vertebrates. bioRxiv, doi: 10.1101/2023.02.15.527881.
-
+Compton, Z. T., W. Mellon, V. K. Harris, S. Rupp, D. Mallo, S. E. Kapsetaki, M. Wilmot, R. Kennington, K. Noble, C. Baciu, L. N. Ramirez, A. Peraza, B. Martins, S. Sudhakar, S. Aksoy, G. Furukawa, O. Vincze, M. Giraudeau, E. G. Duke, S. Spiro, E. Flach, H. Davidson, C. I. Li, A. Zehnder, T. A. Graham, B. V. Troan, T. M. Harrison, M. Tollis, J. D. Schiffman, C. A. Aktipis, L. M. Abegglen, C. C. Maley, and A. M. Boddy. 2024. Cancer Prevalence across Vertebrates. Cancer Discovery, https://doi.org/10.1158/2159-8290.CD-24-0573
 
 ----------------------------------------------------------------------------------------------------
 Phylogenies were obtained from the following publications

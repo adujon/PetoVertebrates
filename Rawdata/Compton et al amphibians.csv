@@ -1,0 +1,42 @@
+taxa_id,Kingdom,Phylum,Class,Clade,Orders,Family,Genus,Species,common_name,RecordsWithDenominators,NeoplasiaWithDenominators,NeoplasiaPrevalence,-,MalignancyKnown,Malignant,MalignancyPrevalence,PropMalignant,Benign,BenignPrevalence,PropBenign,--,RecordsFromAllSources,NeoplasiaFromAllSources,Necropsies,#Sources,Maximum_Longevity_Years,Body_Mass_Grams
+2726,Animalia,Chordata,Amphibia,Amphibia,Anura,Mantellidae,Mantella,Mantella_aurantiaca,Golden mantella,304,2,0.006578947,-,2,0,0,0,2,0.006578947,1,-,304,2,304,9,10.9,1.007
+1649,Animalia,Chordata,Amphibia,Amphibia,Anura,Dendrobatidae,Dendrobates,Dendrobates_tinctorius,Dyeing poison dart frog,267,2,0.007490637,-,2,1,0.003745318,0.5,1,0.003745318,0.5,-,267,2,267,33,10,3.535
+825,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Peltophryne,Peltophryne_lemur,Puerto rican crested toad,226,19,0.084070796,-,17,8,0.03539823,0.470588235,9,0.039823009,0.529411765,-,226,19,226,16,10.7,85.404
+19342,Animalia,Tetrapoda,Amphibia,Amphibia,Anura,Alytidae,Alytes,Alytes_muletensis,Mallorcan midwife toad,216,0,0,-,0,0,0,NA,0,0,NA,-,216,0,216,1,NA,NA
+314,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Anaxyrus,Anaxyrus_baxteri,Wyoming toad,200,5,0.025,-,3,2,0.01,0.666666667,1,0.005,0.333333333,-,200,5,200,4,8,30.901
+2941,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Nectophrynoides,Nectophrynoides_asperginis,Kihansi spray toad,173,2,0.011560694,-,2,2,0.011560694,1,0,0,0,-,173,2,173,4,5,0.354
+572,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Atelopus,Atelopus_zeteki,Panamanian golden frog,137,1,0.00729927,-,6,1,0.00729927,0.166666667,0,0,0.833333333,-,142,6,137,22,15,5.821
+3324,Animalia,Chordata,Amphibia,Amphibia,Anura,Pipidae,Pipa,Pipa_pipa,Surinam toad,108,4,0.037037037,-,3,1,0.009259259,0.333333333,2,0.018518519,0.666666667,-,108,4,108,21,7.7,290.832
+1435,Animalia,Chordata,Amphibia,Amphibia,Anura,Ceratobatrachidae,Cornufer,Cornufer_guentheri,Solomon island leaf frog,89,5,0.056179775,-,4,3,0.033707865,0.75,1,0.011235955,0.25,-,89,5,89,11,NA,NA
+3639,Animalia,Chordata,Amphibia,Amphibia,Anura,Ranidae,Rana,Rana_sierrae,Sierra nevada yellow-legged frog,76,1,0.013157895,-,1,0,0,0,1,0.013157895,1,-,76,1,76,5,NA,NA
+15239,Animalia,Chordata,Amphibia,Amphibia,Anura,Ranidae,Rana,Rana_temporaria,Common frog,73,0,0,-,0,0,0,NA,0,0,NA,-,73,0,73,1,27,60.756
+111,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Agalychnis,Agalychnis_callidryas,Green tree frog,73,2,0.02739726,-,2,1,0.01369863,0.5,1,0.01369863,0.5,-,73,2,73,20,5,25.343
+223,Animalia,Chordata,Amphibia,Amphibia,Caudata,Ambystomatidae,Ambystoma,Ambystoma_mexicanum,Axolotl,73,5,0.068493151,-,5,5,0.068493151,1,0,0,0,-,73,5,73,18,17,155.707
+3299,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Phyllomedusa,Phyllomedusa_bicolor,Giant waxy tree frog,70,0,0,-,0,0,0,NA,0,0,NA,-,70,0,70,17,10.3,104.955
+4217,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Trachycephalus,Trachycephalus_resinifictrix,Mission-eyed tree frog,69,6,0.086956522,-,5,4,0.057971014,0.8,1,0.014492754,0.2,-,69,6,69,14,NA,NA
+19619,Animalia,Tetrapoda,Amphibia,Amphibia,Anura,Pipidae,Xenopus,Xenopus_longipes,Lake oku clawed frog,67,0,0,-,0,0,0,NA,0,0,NA,-,67,0,67,1,NA,NA
+2610,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Nyctimystes,Nyctimystes_infrafrenatus,White-lipped tree frog,63,7,0.111111111,-,7,7,0.111111111,1,0,0,0,-,63,7,63,24,NA,NA
+1710,Animalia,Chordata,Amphibia,Amphibia,Anura,Microhylidae,Dyscophus,Dyscophus_antongilii,Tamato frog,54,4,0.074074074,-,4,2,0.037037037,0.5,2,0.037037037,0.5,-,54,4,54,20,11,23.375
+3296,Animalia,Chordata,Amphibia,Amphibia,Anura,Dendrobatidae,Phyllobates,Phyllobates_bicolor,Bi-colour poison dart frog,50,0,0,-,0,0,0,NA,0,0,NA,-,50,0,50,6,20,3.535
+368,Animalia,Chordata,Amphibia,Amphibia,Anura,Aromobatidae,Anomaloglossus,Anomaloglossus_beebei,Beebe's rocket frog,42,0,0,-,0,0,0,NA,0,0,NA,-,42,0,42,8,5,0.559
+4358,Animalia,Chordata,Amphibia,Amphibia,Caudata,Salamandridae,Neurergus,Tylototriton_shanjing,Emperor newt,42,0,0,-,0,0,0,NA,0,0,NA,-,42,0,42,10,12,128.875
+4361,Animalia,Chordata,Amphibia,Amphibia,Gymnophiona,Caeciliidae,Typhlonectes,Typhlonectes_natans,Rio couca caecilian,40,0,0,-,0,0,0,NA,0,0,NA,-,40,0,40,11,4.1,81.209
+542,Animalia,Chordata,Amphibia,Amphibia,Anura,Leiopelmatidae,Ascaphus,Ascaphus_truei,Coastal tailed frog,39,0,0,-,0,0,0,NA,0,0,NA,-,39,0,39,5,14,5.058
+2595,Animalia,Chordata,Amphibia,Amphibia,Anura,Ranidae,Lithobates,Lithobates_sevosus,Mississippi gopher frog,39,0,0,-,0,0,0,NA,0,0,NA,-,39,0,39,5,9,157.034
+823,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Bufo,Bufo_bufo,Common toad,38,0,0,-,0,0,0,NA,0,0,NA,-,38,0,38,2,40,47.09
+3297,Animalia,Chordata,Amphibia,Amphibia,Anura,Aromobatidae,Anomaloglossus,Phyllobates_terribilis,Golden poison arrow frog,37,0,0,-,0,0,0,NA,0,0,NA,-,37,0,37,9,5,9.163
+2588,Animalia,Chordata,Amphibia,Amphibia,Anura,Ranidae,Lithobates,Lithobates_catesbeianus,American bullfrog,37,2,0.054054054,-,6,0,0,0.666666667,2,0.054054054,0.333333333,-,41,6,37,13,16,639.855
+3670,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Rhinella,Rhinella_marina,Cane toad,33,2,0.060606061,-,2,2,0.060606061,1,0,0,0,-,33,2,33,21,24.8,502.414
+4156,Animalia,Chordata,Amphibia,Amphibia,Anura,Rhacophoridae,Theloderma,Theloderma_corticale,Tonkin bug-eyed frog,32,1,0.03125,-,1,1,0.03125,1,0,0,0,-,32,1,32,11,NA,NA
+3004,Animalia,Chordata,Amphibia,Amphibia,Caudata,Salamandridae,Notophthalmus,Notophthalmus_perstriatus,Striped newt,30,0,0,-,0,0,0,NA,0,0,NA,-,30,0,30,3,12.9,11.76
+2313,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Dryophytes,Dryophytes_versicolor,Gray treefrog,29,1,0.034482759,-,1,1,0.034482759,1,0,0,0,-,29,1,29,11,NA,NA
+2551,Animalia,Chordata,Amphibia,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus_pentadactylus,Smoky jungle frog,28,2,0.071428571,-,1,0,0,0,1,0.035714286,1,-,28,2,28,10,18.8,463.755
+1083,Animalia,Chordata,Amphibia,Amphibia,Anura,Ceratophryidae,Ceratophrys,Ceratophrys_ornata,Bell'shorned frog,27,0,0,-,5,0,0,0,0,0,1,-,32,5,27,17,14.7,165.277
+19344,Animalia,Tetrapoda,Amphibia,Amphibia,Anura,Alytidae,Alytes,Alytes_cisternasii,Iberian midwife toad,26,0,0,-,0,0,0,NA,0,0,NA,-,26,0,26,1,6,5.797
+2550,Animalia,Chordata,Amphibia,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus_fallax,Dominican mountain chicken frog,24,11,0.458333333,-,10,8,0.333333333,0.8,2,0.083333333,0.2,-,24,11,24,5,15,186.971
+2785,Animalia,Chordata,Amphibia,Amphibia,Anura,Megophryidae,Megophrys,Megophrys_nasuta,Asian horned frog,23,0,0,-,0,0,0,NA,0,0,NA,-,23,0,23,5,6.75,119.066
+1991,Animalia,Chordata,Amphibia,Amphibia,Gymnophiona,Dermophiidae,Geotrypetes,Geotrypetes_seraphini,Gaboon caecilian,23,1,0.043478261,-,1,0,0,0,1,0.043478261,1,-,23,1,23,2,4,42.228
+1660,Animalia,Chordata,Amphibia,Amphibia,Anura,Hylidae,Dendropsophus,Dendropsophus_ebraccatus,Hourglass treefrog,22,1,0.045454545,-,1,0,0,0,1,0.045454545,1,-,22,1,22,5,NA,NA
+2594,Animalia,Chordata,Amphibia,Amphibia,Anura,Ranidae,Lithobates,Lithobates_pipiens,Northern leopard frog,22,2,0.090909091,-,2,1,0.045454545,0.5,1,0.045454545,0.5,-,22,2,22,8,9,60.756
+2395,Animalia,Chordata,Amphibia,Amphibia,Anura,Bufonidae,Incilius,Incilius_coniferus,Green climbing toad,20,0,0,-,0,0,0,NA,0,0,NA,-,20,0,20,2,4.4,44.398
+226,Animalia,Chordata,Amphibia,Amphibia,Caudata,Ambystomatidae,Ambystoma,Ambystoma_tigrinum,Tiger salamander,20,4,0.2,-,4,2,0.1,0.5,2,0.1,0.5,-,20,4,20,13,25,534.243

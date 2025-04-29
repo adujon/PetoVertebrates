@@ -2,7 +2,8 @@
 
 This repository contains the codes and raw datasets used to perform the analyses in the following manuscript: 
 
-Towards more rigorous testing of Peto’s paradox: a Bayesian re-analysis and discussion of the effect of body mass and longevity on cancer risk across vertebrates.
+A Bayesian re-analysis of Peto’s Paradox: Toward more rigorous testing of the influence of body mass, longevity and other cancer risk factors and in vertebrate comparative oncology.
+
 Antoine M. Dujon1,2*, Peter A. Biro1, Beata Ujvari1, Frédéric Thomas2.
 
 1 Deakin University, Geelong, School of Life and Environmental Sciences, Centre for Integrative Ecology, Waurn Ponds, Vic 3216, Australia. 
@@ -39,6 +40,8 @@ Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: Spe
 
 Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron. 2016. Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biol Conserv 204:23–31. Elsevier Ltd.
 
+Jetz W, Pyron RA. 2018 The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nat Ecol Evol 2, 850–858. (doi:10.1038/s41559-018-0515-5)
+
 ----------------------------------------------------------------------------------------------------
 Body size and longevity datasets were obtained from the following publications / databases and from Kaptsetaki, Compton, Vinzce and Boddy's papers
 
@@ -46,4 +49,4 @@ https://genomics.senescence.info
 
 Tacutu, R., T. Craig, A. Budovsky, D. Wuttke, G. Lehmann, D. Taranukha, J. Costa, V. E. Fraifeld, and J. P. De Magalhães. 2013. Human Ageing Genomic Resources: Integrated databases and tools for the biology and genetics of ageing. Nucleic Acids Res 41.
 
-
+Stark G, Pincheira-Donoso D, Meiri S. 2020 No evidence for the ‘rate-of-living’ theory across the tetrapod tree of life. Global Ecology and Biogeography 29, 857–884. (doi:10.1111/geb.13069)

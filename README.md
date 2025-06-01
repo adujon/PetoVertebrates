@@ -2,7 +2,7 @@
 
 This repository contains the codes and raw datasets used to perform the analyses in the following manuscript: 
 
-A Bayesian re-analysis of Peto’s Paradox: Toward more rigorous testing of the influence of body mass, longevity and other cancer risk factors and in vertebrate comparative oncology.
+Toward A More Robust Comparative Oncology: A Bayesian Reanalysis of Peto’s Paradox and Discussion of Comparative Cancer Risk Studies in Vertebrates 
 
 Antoine M. Dujon1,2*, Peter A. Biro1, Beata Ujvari1, Frédéric Thomas2.
 

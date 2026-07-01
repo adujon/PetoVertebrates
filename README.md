@@ -33,6 +33,10 @@ Vincze, O., F. Colchero, J.-F. Lemaître, D. A. Conde, S. Pavard, M. Bieuville, 
 
 Compton, Z. T., W. Mellon, V. K. Harris, S. Rupp, D. Mallo, S. E. Kapsetaki, M. Wilmot, R. Kennington, K. Noble, C. Baciu, L. N. Ramirez, A. Peraza, B. Martins, S. Sudhakar, S. Aksoy, G. Furukawa, O. Vincze, M. Giraudeau, E. G. Duke, S. Spiro, E. Flach, H. Davidson, C. I. Li, A. Zehnder, T. A. Graham, B. V. Troan, T. M. Harrison, M. Tollis, J. D. Schiffman, C. A. Aktipis, L. M. Abegglen, C. C. Maley, and A. M. Boddy. 2024. Cancer Prevalence across Vertebrates. Cancer Discovery, https://doi.org/10.1158/2159-8290.CD-24-0573
 
+IMPORTANT: Vincze et al. provide two cancer-mortality metrics: the incidence of cancer mortality, or ICM, and the cumulative mortality risk, or CMR. ICM is a survival/competing-risk estimate of the probability that an adult individual dies from cancer, while accounting for age structure and censored individuals. Vincze et al. designed this metric to reduce biases arising from left truncation and right censoring, including individuals that were still alive at the time of data extraction and whose eventual cause of death was therefore unknown. For this reason, we used ICM as our main cancer-mortality metric.
+Because the ICM values were provided as point estimates, we converted them into derived event counts so that they could be analysed using binomial regression models. Specifically, we calculated:
+derived cancer-mortality events = round(ICM × number of necropsied individuals)
+
 ----------------------------------------------------------------------------------------------------
 Phylogenies were obtained from the following publications
 

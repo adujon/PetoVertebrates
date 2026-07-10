@@ -12,6 +12,7 @@ Antoine M. Dujon1,2*, Peter A. Biro1, Beata Ujvari1, Frédéric Thomas2.
 
 *Corresponding author: antoine.dujon@yahoo.fr 
 
+Link to the paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC12308236/
 
 -------------------------------------------------------------------------------------------------------
 The rawdata folder contains the cancer prevalence raw, body mass and maximum longevities datasets included in the manuscript
